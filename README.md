@@ -6,15 +6,21 @@ Step 1: Download blueJ
 The link: https://www.bluej.org/
 Dowload installer then run installer and download application, keep track of where you save things.
 
+
+
 Step 2: Make a new Project in blueJ
 
 Wether you are on a mac, or a pc, navigate to the drop down "Project" menue and select "New Project..."
 Choose where to save the project
 
+
+
 Step 3: Download Required Code and png images
 
 link for all the images and the code: https://drive.google.com/drive/folders/1AIokAZUVOrttCGjmCOIdUQ7NF9tk_pxI?usp=sharing
 Create a new folder (somewhere you can acess easily) and download all the files into the folder (select all and zip download).
+
+
 
 Step 4: Import downloads into blueJ project
 
@@ -22,12 +28,16 @@ After you downloaded everything, go back to your blueJ project.
 From the same drop down project menue, select "Import..."
 Then find the folder you made and added downloads to in step 3.
 
+
+
 Step 5: Run the program
 
 Press the "compile" button in the blueJ project if necessary
 Right click the orange rectangle titles "TaylorPolynomialDemonstration" there should only be one other called StdDraw
 After right clicking, select "void main(String[] args)" from the drop down. 
 You will recieve another prompt, click ok
+
+
 
 Step 6: Controls
 
