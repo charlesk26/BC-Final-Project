@@ -11,7 +11,7 @@ Choose where to save the project
 
 Step 3: Download Required Code and png images
 link for all the images and the code: https://drive.google.com/drive/folders/1AIokAZUVOrttCGjmCOIdUQ7NF9tk_pxI?usp=sharing
-Create a new folder (somewhere you can acess easily) and download each image and java file into the folder individually
+Create a new folder (somewhere you can acess easily) and download all the files into the folder (select all and zip download).
 
 Step 4: Import downloads into blueJ project
 After you downloaded everything, go back to your blueJ project.
