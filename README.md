@@ -18,7 +18,7 @@ Choose where to save the project
 Step 3: Download Required Code and png images
 
 link for all the images and the code: https://drive.google.com/drive/folders/1AIokAZUVOrttCGjmCOIdUQ7NF9tk_pxI?usp=sharing
-Create a new folder (somewhere you can acess easily) and download all the files into the folder (select all and zip download).
+Create a new folder (somewhere you can acess easily) and download all the files into the folder (You may need to press "ctrl"+"-" to make the window smaller so it is easier to left click and select all files then right click to dowload all files into a zip).
 
 
 
