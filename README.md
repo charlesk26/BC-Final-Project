@@ -1,5 +1,5 @@
 # BC-Final-Project
-This everything you need to run my final Project yourself!
+The final project for the AP BC calculus class I took in high school. This is a java aplet that let's you play around in real time with the taylor expansions of various elementary functions.
 
 Step 1: Download blueJ
 
